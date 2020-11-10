@@ -1,0 +1,7 @@
+C:\Users\darcz\source\repos\Lab04_David_Rodríguez_1164619\Debug\Lab04_David_Rodríguez_1164619.vcxprojAssemblyReference.cache
+C:\Users\darcz\source\repos\Lab04_David_Rodríguez_1164619\Debug\Lab04_David_Rodríguez_1164619.exe
+C:\Users\darcz\source\repos\Lab04_David_Rodríguez_1164619\Debug\Lab04_David_Rodríguez_1164619.pdb
+C:\Users\darcz\source\repos\Lab04_David_Rodríguez_1164619\Debug\Lab04DavidRodríguez1164619.Ejercicio1.resources
+C:\Users\darcz\source\repos\Lab04_David_Rodríguez_1164619\Debug\Lab04DavidRodríguez1164619.Menu1.resources
+C:\Users\darcz\source\repos\Lab04_David_Rodríguez_1164619\Debug\Lab04_David_Rodríguez_1164619.vcxproj.GenerateResource.cache
+C:\Users\darcz\source\repos\Lab04_David_Rodríguez_1164619\Debug\Lab04DavidRodríguez1164619.Ejercicio2.resources

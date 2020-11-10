@@ -1,0 +1,6 @@
+﻿  Ejercicio2.cpp
+  Menu1.cpp
+C:\Users\darcz\source\repos\Lab04_David_Rodríguez_1164619\Menu1.cpp(8,15): warning C4551: la llamada a la función no tiene lista de argumentos
+  Generando código...
+  DoubleLIst.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Lab04_David_Rodríguez_1164619.vcxproj -> C:\Users\darcz\source\repos\Lab04_David_Rodríguez_1164619\Debug\Lab04_David_Rodríguez_1164619.exe
